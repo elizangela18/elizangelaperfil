@@ -1,5 +1,5 @@
 # elizangelaperfil
-###olá eu sou a Elizangela rodrigues 🫶🏻
+###olá eu sou a Elizangela rodrigues ❤
 
 [![#instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](
 https://www.instagram.com/ely_digital_oficial?igsh=bWRnMGNleWsyNGt0&utm_source=qr)
