@@ -3,29 +3,18 @@
 
 [![#instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](
 https://www.instagram.com/ely_digital_oficial?igsh=bWRnMGNleWsyNGt0&utm_source=qr)
-
 [![#Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/eliz%C3%A2ngela-rodrigues/)
-
 [![#whtasapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/dl).
 
-
 [![ElizangelaRodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizangelarodrigues&show_icons=true&theme=dracula)
-
 ![Elizangela GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizangela&hide=contribs,prsicons=true&theme=merko)
-
 ![Elizangela GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizangelaa&hide=contribs,prsicons=true&theme=tokyonight).
-
 ![Elizangela GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizangela&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentageicons=true&theme=highcontrast)
-
 ![Elizangela GitHub stats](https://github-readme-stats.vercel.app/api?username=Elizangela&showicons=true&theme=synthwave)
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E&layout=pie)](https://github.com/elizangela18/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E&hide_progress=true)
-
-
 <a href="https://github.com/elizangela18/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elizangela18" />
 </a>
